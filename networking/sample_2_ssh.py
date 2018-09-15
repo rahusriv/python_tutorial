@@ -5,7 +5,7 @@ iosv_l2 = {
     'device_type':'linux',
     'ip':'127.0.0.1',
     'username':'rahul',
-    'password':'mastlappyubuntu12',
+    'password':'rahul12'
 }
 
 net_connect = ConnectHandler(**iosv_l2)
