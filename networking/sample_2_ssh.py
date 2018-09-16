@@ -2,18 +2,28 @@ from netmiko import ConnectHandler
 
 iosv_l2 = {
     #'device_type':'cisco_ios',
+    #'device_type'='generic_termserver_telnet'
     'device_type':'linux',
     'ip':'127.0.0.1',
     'username':'rahul',
-    'password':'rahul12'
+    'password':'mastlappyubuntu12',
+    'port':2000
+
 }
 
 net_connect = ConnectHandler(**iosv_l2)
-output = net_connect.send_command('ls')
+output = net_connect.send_command_expect('ls','abc')
 print(output)
 
-#config_commands = ['int loop 0', 'ip address 1.1.1.1 255.255.255.0']
-#output = net_connect.send_config_set(config_commands)
+
+res = net_connect.is_alive()
+print(type(res))
+print(res)
+
+#print(type(output))
+#print("abc\n def\n")
+#commands = ['mkdir abc']
+#output = net_connect.send_config_set(config_commands=commands, delay_factor=100)
 #print(output)
 
 #for n in range(2,22):
