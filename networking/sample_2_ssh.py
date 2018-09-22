@@ -7,13 +7,19 @@ iosv_l2 = {
     'ip':'127.0.0.1',
     'username':'rahul',
     'password':'mastlappyubuntu12',
-    'port':2000
+    #'port':2000
 
 }
 
 net_connect = ConnectHandler(**iosv_l2)
-output = net_connect.send_command_expect('ls','abc')
+output = net_connect.send_command('ls')
+if("folder2" in output):
+    print("Command successful")
+else:
+    print("command did not succed")
 print(output)
+
+print(type(output))
 
 
 res = net_connect.is_alive()

@@ -8,5 +8,6 @@ num = re.sub(r'#.*$', "", phone)
 print("Phone Num : ", num)
 
 # Remove anything other than digits
+phone = input("Please enter your phone no: ")
 num = re.sub(r'\D', "", phone)
 print("Phone Num : ", num)
