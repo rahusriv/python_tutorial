@@ -24,8 +24,8 @@
           <entry key="iml" value="2" />
           <entry key="iosv_l2_cisco_design" value="1" />
           <entry key="iosv_l2_core" value="1" />
-          <entry key="py" value="110" />
-          <entry key="txt" value="1" />
+          <entry key="py" value="120" />
+          <entry key="txt" value="2" />
           <entry key="xml" value="5" />
         </counts>
       </usages-collector>
@@ -33,19 +33,21 @@
         <counts>
           <entry key="HTML" value="2" />
           <entry key="IDEA_MODULE" value="2" />
-          <entry key="PLAIN_TEXT" value="3" />
-          <entry key="Python" value="110" />
+          <entry key="PLAIN_TEXT" value="4" />
+          <entry key="Python" value="120" />
           <entry key="XML" value="5" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
-          <entry key="py" value="5975" />
+          <entry key="py" value="6514" />
+          <entry key="txt" value="1" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="Python" value="5975" />
+          <entry key="PLAIN_TEXT" value="1" />
+          <entry key="Python" value="6514" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.vcs.git.usages" />
@@ -54,99 +56,60 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/class/31_Aggregation/html_doc.py">
+        <entry file="file://$PROJECT_DIR$/exception_handling/sample6.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="210">
-              <caret line="83" selection-start-line="52" selection-start-column="21" selection-end-line="52" selection-end-column="25" />
+            <state>
+              <caret column="21" selection-start-column="12" selection-end-column="21" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/voice_to_text/script.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="210">
-              <caret line="14" column="34" selection-start-line="14" selection-start-column="34" selection-end-line="14" selection-end-column="34" />
-              <folding>
-                <element signature="e#0#13#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/set/sample1.py">
+        <entry file="file://$PROJECT_DIR$/exception_handling/sample7.py">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="120">
-              <caret line="8" lean-forward="true" selection-start-line="8" selection-end-line="8" />
+              <caret line="8" column="29" selection-start-line="8" selection-start-column="29" selection-end-line="8" selection-end-column="29" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/global_variables/sample1.py">
+        <entry file="file://$PROJECT_DIR$/exception_handling/exception_hierarchy.txt">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="105">
-              <caret line="7" column="4" selection-start-line="7" selection-start-column="4" selection-end-line="7" selection-end-column="4" />
+            <state relative-caret-position="135">
+              <caret line="9" column="28" selection-start-line="9" selection-start-column="28" selection-end-line="9" selection-end-column="28" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/global_variables/sample2.py">
+        <entry file="file://$PROJECT_DIR$/multi_threading/sample1.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="90">
-              <caret line="6" column="20" lean-forward="true" selection-start-line="6" selection-start-column="20" selection-end-line="6" selection-end-column="20" />
+            <state relative-caret-position="70">
+              <caret line="16" lean-forward="true" selection-start-line="16" selection-end-line="16" />
               <folding>
-                <marker date="1537610339764" expanded="true" signature="44:133" ph="..." />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/class/1_ObjectOrientatedProgrammingAndClasses/oop.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-17" />
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/class/2_InstancesConstructorsSelfAndMore/oop.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="480">
-              <caret line="32" column="18" lean-forward="true" selection-start-line="32" selection-start-column="18" selection-end-line="32" selection-end-column="18" />
-              <folding>
-                <marker date="1537594474729" expanded="true" signature="21:27" ph="..." />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/class/account_class.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="90">
-              <caret line="6" column="19" lean-forward="true" selection-start-line="6" selection-start-column="19" selection-end-line="6" selection-end-column="19" />
-              <folding>
-                <marker date="1537613692967" expanded="true" signature="22:27" ph="..." />
+                <element signature="e#38#54#0" expanded="true" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/test.py">
-          <provider selected="true" editor-type-id="text-editor" />
+        <entry file="file://$PROJECT_DIR$/multi_threading/sample2.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="240">
+              <caret line="17" column="66" selection-start-line="17" selection-start-column="66" selection-end-line="17" selection-end-column="66" />
+            </state>
+          </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/class/6_NonPublicAndMangling/accounts.py">
+        <entry file="file://$PROJECT_DIR$/multi_threading/sample3.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="375">
-              <caret line="25" column="16" selection-start-line="25" selection-start-column="8" selection-end-line="25" selection-end-column="16" />
+            <state relative-caret-position="345">
+              <caret line="23" column="48" selection-start-line="23" selection-start-column="46" selection-end-line="23" selection-end-column="48" />
               <folding>
-                <element signature="e#0#15#0" expanded="true" />
+                <element signature="e#60#76#0" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -197,10 +160,21 @@
         <option value="$PROJECT_DIR$/class/2_InstancesConstructorsSelfAndMore/oop.py" />
         <option value="$PROJECT_DIR$/class/account_class.py" />
         <option value="$PROJECT_DIR$/test.py" />
+        <option value="$PROJECT_DIR$/exception_handling/sample1.py" />
+        <option value="$PROJECT_DIR$/exception_handling/sample2.py" />
+        <option value="$PROJECT_DIR$/exception_handling/sample3.py" />
+        <option value="$PROJECT_DIR$/exception_handling/sample4.py" />
+        <option value="$PROJECT_DIR$/exception_handling/sample5.py" />
+        <option value="$PROJECT_DIR$/exception_handling/sample6.py" />
+        <option value="$PROJECT_DIR$/exception_handling/sample7.py" />
+        <option value="$PROJECT_DIR$/exception_handling/exception_hierarchy.txt" />
+        <option value="$PROJECT_DIR$/multi_threading/sample1.py" />
+        <option value="$PROJECT_DIR$/multi_threading/sample3.py" />
+        <option value="$PROJECT_DIR$/multi_threading/sample2.py" />
       </list>
     </option>
   </component>
-  <component name="ProjectFrameBounds" extendedState="7">
+  <component name="ProjectFrameBounds" extendedState="6">
     <option name="x" value="67" />
     <option name="y" value="25" />
     <option name="width" value="1213" />
@@ -237,40 +211,6 @@
             </path>
             <path>
               <item name="python_tutorial" type="b2602c69:ProjectViewProjectNode" />
-              <item name="python_tutorial" type="462c0819:PsiDirectoryNode" />
-              <item name="class" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="python_tutorial" type="b2602c69:ProjectViewProjectNode" />
-              <item name="python_tutorial" type="462c0819:PsiDirectoryNode" />
-              <item name="class" type="462c0819:PsiDirectoryNode" />
-              <item name="1_ObjectOrientatedProgrammingAndClasses" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="python_tutorial" type="b2602c69:ProjectViewProjectNode" />
-              <item name="python_tutorial" type="462c0819:PsiDirectoryNode" />
-              <item name="class" type="462c0819:PsiDirectoryNode" />
-              <item name="2_InstancesConstructorsSelfAndMore" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="python_tutorial" type="b2602c69:ProjectViewProjectNode" />
-              <item name="python_tutorial" type="462c0819:PsiDirectoryNode" />
-              <item name="class" type="462c0819:PsiDirectoryNode" />
-              <item name="3_ClassAttributes" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="python_tutorial" type="b2602c69:ProjectViewProjectNode" />
-              <item name="python_tutorial" type="462c0819:PsiDirectoryNode" />
-              <item name="class" type="462c0819:PsiDirectoryNode" />
-              <item name="6_NonPublicAndMangling" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="python_tutorial" type="b2602c69:ProjectViewProjectNode" />
-              <item name="python_tutorial" type="462c0819:PsiDirectoryNode" />
-              <item name="global_variables" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="python_tutorial" type="b2602c69:ProjectViewProjectNode" />
               <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
             </path>
           </expand>
@@ -283,7 +223,7 @@
     </panes>
   </component>
   <component name="PropertiesComponent">
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1537615502564" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1537686006678" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="project.structure.last.edited" value="SDKs" />
     <property name="project.structure.proportion" value="0.15" />
@@ -310,8 +250,8 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.test">
-    <configuration name="account_class" type="PythonConfigurationType" factoryName="Python" temporary="true">
+  <component name="RunManager" selected="Python.sample2">
+    <configuration name="sample1" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="python_tutorial" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -319,53 +259,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/class" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/multi_threading" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/class/account_class.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="oop" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <module name="python_tutorial" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/class/2_InstancesConstructorsSelfAndMore" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/class/2_InstancesConstructorsSelfAndMore/oop.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="sample1 (1)" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <module name="python_tutorial" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/global_variables" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/global_variables/sample1.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/multi_threading/sample1.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -382,11 +280,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/global_variables" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/multi_threading" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/global_variables/sample2.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/multi_threading/sample2.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -395,7 +293,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="test" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="sample3" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="python_tutorial" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -403,11 +301,53 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/multi_threading" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/test.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/multi_threading/sample3.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="sample5" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="python_tutorial" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/exception_handling" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/exception_handling/sample5.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="sample7" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="python_tutorial" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/exception_handling" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/exception_handling/sample7.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -417,19 +357,19 @@
       <method v="2" />
     </configuration>
     <list>
-      <item itemvalue="Python.sample1 (1)" />
+      <item itemvalue="Python.sample5" />
+      <item itemvalue="Python.sample7" />
+      <item itemvalue="Python.sample1" />
       <item itemvalue="Python.sample2" />
-      <item itemvalue="Python.oop" />
-      <item itemvalue="Python.account_class" />
-      <item itemvalue="Python.test" />
+      <item itemvalue="Python.sample3" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.test" />
-        <item itemvalue="Python.account_class" />
-        <item itemvalue="Python.oop" />
         <item itemvalue="Python.sample2" />
-        <item itemvalue="Python.sample1 (1)" />
+        <item itemvalue="Python.sample3" />
+        <item itemvalue="Python.sample1" />
+        <item itemvalue="Python.sample7" />
+        <item itemvalue="Python.sample5" />
       </list>
     </recent_temporary>
   </component>
@@ -447,7 +387,7 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="67" y="25" width="1213" height="695" extended-state="7" />
+    <frame x="67" y="25" width="1213" height="695" extended-state="6" />
     <editor active="true" />
     <layout>
       <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.22707798" />
@@ -460,7 +400,7 @@
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
       <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.38053098" />
-      <window_info anchor="bottom" id="Debug" order="3" weight="0.42251223" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.42123893" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
@@ -476,107 +416,11 @@
       <window_info anchor="right" id="Palette&#9;" order="6" />
       <window_info anchor="right" id="Maven Projects" order="7" />
     </layout>
-    <layout-to-restore>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.22027135" />
-      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
-      <window_info id="Image Layers" order="2" />
-      <window_info id="Designer" order="3" />
-      <window_info id="UI Designer" order="4" />
-      <window_info id="Capture Tool" order="5" />
-      <window_info id="Favorites" order="6" side_tool="true" />
-      <window_info anchor="bottom" id="Message" order="0" />
-      <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.24143556" />
-      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
-      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
-      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
-      <window_info anchor="bottom" id="TODO" order="6" />
-      <window_info anchor="bottom" id="Terminal" order="7" />
-      <window_info anchor="bottom" id="Event Log" order="8" side_tool="true" />
-      <window_info anchor="bottom" id="Version Control" order="9" />
-      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
-      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
-      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
-      <window_info anchor="right" id="Palette" order="3" />
-      <window_info anchor="right" id="Capture Analysis" order="4" />
-      <window_info anchor="right" id="Theme Preview" order="5" />
-      <window_info anchor="right" id="Palette&#9;" order="6" />
-      <window_info anchor="right" id="Maven Projects" order="7" />
-    </layout-to-restore>
   </component>
   <component name="VcsContentAnnotationSettings">
     <option name="myLimit" value="2678400000" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/class/18_DataAttributesAndProperties/main.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-140">
-          <caret line="6" column="14" lean-forward="true" selection-start-line="6" selection-start-column="14" selection-end-line="6" selection-end-column="14" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/class/18_DataAttributesAndProperties/player.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="70">
-          <caret line="26" column="19" lean-forward="true" selection-start-line="26" selection-start-column="19" selection-end-line="26" selection-end-column="19" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/class/17_GettersAndSetters/player.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="150">
-          <caret line="10" lean-forward="true" selection-start-line="10" selection-end-line="10" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/class/15_RemoveCircularReferencesChallenge/song.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="255">
-          <caret line="17" column="8" selection-start-line="17" selection-start-column="4" selection-end-line="17" selection-end-column="8" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/class/19_AlternateSyntaxForProperties/main.py">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/class/tempereture_getter_setter/script1.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="105">
-          <caret line="7" selection-start-line="7" selection-end-line="7" selection-end-column="26" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/class/tempereture_getter_setter/script2.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="205">
-          <caret line="23" column="5" selection-start-line="23" selection-start-column="5" selection-end-line="23" selection-end-column="5" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/class/tempereture_getter_setter/script3.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="107">
-          <caret line="20" column="16" selection-start-line="20" selection-start-column="16" selection-end-line="20" selection-end-column="16" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/class/17_GettersAndSetters/main.py">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/class/19_AlternateSyntaxForProperties/player.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="195">
-          <caret line="34" column="26" lean-forward="true" selection-start-line="34" selection-start-column="26" selection-end-line="34" selection-end-column="26" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/class/tempereture_getter_setter/script4.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="130">
-          <caret line="20" column="17" lean-forward="true" selection-start-line="20" selection-start-column="17" selection-end-line="20" selection-end-column="17" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/class/20_Inheritance/main.py">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
@@ -721,13 +565,6 @@
     <entry file="file://$PROJECT_DIR$/class/31_Aggregation/test.html">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/class/31_Aggregation/html_doc.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="210">
-          <caret line="83" selection-start-line="52" selection-start-column="21" selection-end-line="52" selection-end-column="25" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/voice_to_text/script.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="210">
@@ -767,16 +604,6 @@
         <state relative-caret-position="-17" />
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/class/6_NonPublicAndMangling/accounts.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="375">
-          <caret line="25" column="16" selection-start-line="25" selection-start-column="8" selection-end-line="25" selection-end-column="16" />
-          <folding>
-            <element signature="e#0#15#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/class/2_InstancesConstructorsSelfAndMore/oop.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="480">
@@ -784,6 +611,13 @@
           <folding>
             <marker date="1537594474729" expanded="true" signature="21:27" ph="..." />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/class/31_Aggregation/html_doc.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="225">
+          <caret line="83" selection-start-line="52" selection-start-column="21" selection-end-line="52" selection-end-column="25" />
         </state>
       </provider>
     </entry>
@@ -799,6 +633,99 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/test.py">
       <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/class/6_NonPublicAndMangling/accounts.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="375">
+          <caret line="25" column="16" selection-start-line="25" selection-start-column="8" selection-end-line="25" selection-end-column="16" />
+          <folding>
+            <element signature="e#0#15#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/exception_handling/sample1.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="60">
+          <caret line="4" column="13" lean-forward="true" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/exception_handling/sample2.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="180">
+          <caret line="12" column="13" lean-forward="true" selection-start-line="12" selection-start-column="13" selection-end-line="12" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/exception_handling/sample3.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="90">
+          <caret line="6" column="22" lean-forward="true" selection-start-line="6" selection-start-column="22" selection-end-line="6" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/exception_handling/sample4.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="45">
+          <caret line="3" column="22" lean-forward="true" selection-start-line="3" selection-start-column="22" selection-end-line="3" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/exception_handling/sample5.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="60">
+          <caret line="4" column="17" lean-forward="true" selection-start-line="4" selection-start-column="17" selection-end-line="4" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/exception_handling/sample6.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="21" selection-start-column="12" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/exception_handling/sample7.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="120">
+          <caret line="8" column="29" selection-start-line="8" selection-start-column="29" selection-end-line="8" selection-end-column="29" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/exception_handling/exception_hierarchy.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="135">
+          <caret line="9" column="28" selection-start-line="9" selection-start-column="28" selection-end-line="9" selection-end-column="28" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/multi_threading/sample1.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="70">
+          <caret line="16" lean-forward="true" selection-start-line="16" selection-end-line="16" />
+          <folding>
+            <element signature="e#38#54#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/multi_threading/sample3.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="345">
+          <caret line="23" column="48" selection-start-line="23" selection-start-column="46" selection-end-line="23" selection-end-column="48" />
+          <folding>
+            <element signature="e#60#76#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/multi_threading/sample2.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="240">
+          <caret line="17" column="66" selection-start-line="17" selection-start-column="66" selection-end-line="17" selection-end-column="66" />
+        </state>
+      </provider>
     </entry>
   </component>
   <component name="masterDetails">
