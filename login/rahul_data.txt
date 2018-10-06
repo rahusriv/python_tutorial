@@ -1,0 +1,5 @@
+Home : HSR
+DOB : Aug 9th 
+Occupation: Engineering
+Salary: 10000
+
