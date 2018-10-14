@@ -5,8 +5,8 @@ def divide(x, y):
         print("division by zero!")
     #except ValueError:
     #    print("Wrong type of value given")
-    #except Exception:
-    #    print("Unown exception")
+    except BaseException:
+        print("Unown exception")
     else:
         print("result is", result)
     finally:

@@ -16,9 +16,9 @@ class Celsius:
 
 if __name__ == '__main__':
     #c = Celsius(-277)
-    c = Celsius(37)
+    c = Celsius(-337)
     print(c.get_temperature())
-    c.set_temperature(10)
+    #c.set_temperature(10)
     #c.set_temperature(-300)
-    #c._temperature = -300
-    #print(c.get_temperature())
+    c._temperature = -300
+    print(c.get_temperature())

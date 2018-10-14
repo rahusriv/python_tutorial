@@ -11,8 +11,8 @@ for cls in [B, C, D]:
     try:
         raise cls()
     except D:
-        print("D")
+        print("B")
     except C:
         print("C")
     except B:
-        print("B")
+        print("D")
