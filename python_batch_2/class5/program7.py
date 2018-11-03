@@ -5,4 +5,4 @@ for num in list1:
     if(num<min):
         min = num
 
-print(min)0
+print(min)
