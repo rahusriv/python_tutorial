@@ -8,7 +8,7 @@ print(a//b)
 print(a*b)
 print(a%b)
 
-for i in range(0,int(a/b)):
+for i in range(0,a//b):
     print(i)
 
 c = 20.1
