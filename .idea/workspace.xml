@@ -2,9 +2,15 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="8c510ab7-aae7-4377-a88a-96970eb1b891" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/dictionaries/mukund.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/python_batch_2/class4/check_location.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/python_batch_2/class4/file_reading.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/python_batch_2/class4/location.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/python_batch_2/class4/shopping_list_example.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/python_batch_2/class3/prime_numbers.py" beforeDir="false" afterPath="$PROJECT_DIR$/python_batch_2/class3/prime_numbers.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/python_batch_2/class3/prime_numbers_range.py" beforeDir="false" afterPath="$PROJECT_DIR$/python_batch_2/class3/prime_numbers_range.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/class/account_class.py" beforeDir="false" afterPath="$PROJECT_DIR$/class/account_class.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/python_batch_2/class3/print_numbers_break.py" beforeDir="false" afterPath="$PROJECT_DIR$/python_batch_2/class3/print_numbers_break.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/python_batch_2/class4/program4.py" beforeDir="false" afterPath="$PROJECT_DIR$/python_batch_2/class4/program4.py" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -13,7 +19,7 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="FileEditorManager">
-    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+    <leaf>
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/python_batch_2/class3/print_string_n_times.py">
           <provider selected="true" editor-type-id="text-editor">
@@ -24,19 +30,10 @@
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/python_batch_2/class3/count_vovels.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="75">
-              <caret line="5" column="19" lean-forward="true" selection-start-line="5" selection-start-column="19" selection-end-line="5" selection-end-column="19" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/python_batch_2/class3/print_string_n_times_while_loop.py">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="30">
-              <caret line="2" column="19" lean-forward="true" selection-start-line="2" selection-start-column="19" selection-end-line="2" selection-end-column="19" />
+              <caret line="2" column="19" selection-start-line="2" selection-start-column="19" selection-end-line="2" selection-end-column="19" />
             </state>
           </provider>
         </entry>
@@ -52,50 +49,51 @@
       </file>
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/python_batch_2/class3/print_numbers_break.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state>
+              <caret column="18" selection-start-column="18" selection-end-column="18" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/python_batch_2/class4/shopping_list_example.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="120">
+              <caret line="8" selection-start-line="8" selection-end-line="8" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/python_batch_2/class4/program1.py">
           <provider selected="true" editor-type-id="text-editor" />
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/python_batch_2/class3/prime_numbers.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="135">
-              <caret line="11" column="35" selection-start-line="11" selection-start-column="35" selection-end-line="11" selection-end-column="35" />
-            </state>
-          </provider>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/python_batch_2/class4/program2.py">
+          <provider selected="true" editor-type-id="text-editor" />
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/python_batch_2/class3/prime_numbers_range.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="75">
-              <caret line="20" lean-forward="true" selection-start-line="20" selection-end-line="20" />
-            </state>
-          </provider>
+        <entry file="file://$PROJECT_DIR$/python_batch_2/class4/program4.py">
+          <provider selected="true" editor-type-id="text-editor" />
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/python_batch_2/class3/prime_numbers_100_995.txt">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="90">
-              <caret line="6" column="18" selection-start-line="6" selection-start-column="18" selection-end-line="6" selection-end-column="18" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/python_batch_2/class3/prime_numbers_500_100000.txt">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="40">
-              <caret line="941" column="11" lean-forward="true" selection-start-line="941" selection-start-column="11" selection-end-line="941" selection-end-column="11" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/python_batch_2/class3/prime_numbers.txt">
+        <entry file="file://$PROJECT_DIR$/python_batch_2/class4/check_location.py">
           <provider selected="true" editor-type-id="text-editor">
             <state>
-              <caret column="34" lean-forward="true" selection-start-column="34" selection-end-column="34" />
+              <caret selection-end-line="2" selection-end-column="34" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/python_batch_2/class4/file_reading.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="90">
+              <caret line="6" column="34" lean-forward="true" selection-start-line="6" selection-start-column="34" selection-end-line="6" selection-end-column="34" />
             </state>
           </provider>
         </entry>
@@ -120,12 +118,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/python_batch_2/class6/program7.py" />
-        <option value="$PROJECT_DIR$/python_batch_2/class7/program1.py" />
-        <option value="$PROJECT_DIR$/python_batch_2/class7/program2.py" />
-        <option value="$PROJECT_DIR$/python_batch_2/class7/program3_createdb.py" />
-        <option value="$PROJECT_DIR$/python_batch_2/class7/program4_create.py" />
-        <option value="$PROJECT_DIR$/python_batch_2/class7/program5_insert.py" />
         <option value="$PROJECT_DIR$/python_batch_2/class7/createdb/check_db_exists.py" />
         <option value="$PROJECT_DIR$/python_batch_2/class7/createdb/conect_to_existing_db.py" />
         <option value="$PROJECT_DIR$/python_batch_2/class7/create_table/create_new_table.py" />
@@ -168,9 +160,15 @@
         <option value="$PROJECT_DIR$/python_batch_2/class3/count_vovels.py" />
         <option value="$PROJECT_DIR$/python_batch_2/class3/print_string_n_times_while_loop.py" />
         <option value="$PROJECT_DIR$/python_batch_2/class3/print_numbers_continue.py" />
-        <option value="$PROJECT_DIR$/python_batch_2/class3/print_numbers_break.py" />
         <option value="$PROJECT_DIR$/python_batch_2/class3/prime_numbers_range.py" />
         <option value="$PROJECT_DIR$/python_batch_2/class3/prime_numbers.py" />
+        <option value="$PROJECT_DIR$/class/account_class.py" />
+        <option value="$PROJECT_DIR$/python_batch_2/class3/print_numbers_break.py" />
+        <option value="$PROJECT_DIR$/python_batch_2/class4/shopping_list_example.py" />
+        <option value="$PROJECT_DIR$/python_batch_2/class4/location.txt" />
+        <option value="$PROJECT_DIR$/python_batch_2/class4/check_location.py" />
+        <option value="$PROJECT_DIR$/python_batch_2/class4/program4.py" />
+        <option value="$PROJECT_DIR$/python_batch_2/class4/file_reading.py" />
       </list>
     </option>
   </component>
@@ -179,23 +177,6 @@
     <option name="y" value="25" />
     <option name="width" value="1213" />
     <option name="height" value="695" />
-  </component>
-  <component name="ProjectInspectionProfilesVisibleTreeState">
-    <entry key="Project Default">
-      <profile-state>
-        <expanded-state>
-          <State />
-          <State>
-            <id>Python</id>
-          </State>
-        </expanded-state>
-        <selected-state>
-          <State>
-            <id>Python</id>
-          </State>
-        </selected-state>
-      </profile-state>
-    </entry>
   </component>
   <component name="ProjectView">
     <navigator proportions="" version="1">
@@ -212,25 +193,30 @@
             <path>
               <item name="python_tutorial" type="b2602c69:ProjectViewProjectNode" />
               <item name="python_tutorial" type="462c0819:PsiDirectoryNode" />
+              <item name="class" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="python_tutorial" type="b2602c69:ProjectViewProjectNode" />
+              <item name="python_tutorial" type="462c0819:PsiDirectoryNode" />
+              <item name="class" type="462c0819:PsiDirectoryNode" />
+              <item name="1_ObjectOrientatedProgrammingAndClasses" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="python_tutorial" type="b2602c69:ProjectViewProjectNode" />
+              <item name="python_tutorial" type="462c0819:PsiDirectoryNode" />
+              <item name="class" type="462c0819:PsiDirectoryNode" />
+              <item name="2_InstancesConstructorsSelfAndMore" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="python_tutorial" type="b2602c69:ProjectViewProjectNode" />
+              <item name="python_tutorial" type="462c0819:PsiDirectoryNode" />
               <item name="python_batch_2" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="python_tutorial" type="b2602c69:ProjectViewProjectNode" />
               <item name="python_tutorial" type="462c0819:PsiDirectoryNode" />
               <item name="python_batch_2" type="462c0819:PsiDirectoryNode" />
-              <item name="class1" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="python_tutorial" type="b2602c69:ProjectViewProjectNode" />
-              <item name="python_tutorial" type="462c0819:PsiDirectoryNode" />
-              <item name="python_batch_2" type="462c0819:PsiDirectoryNode" />
-              <item name="class2" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="python_tutorial" type="b2602c69:ProjectViewProjectNode" />
-              <item name="python_tutorial" type="462c0819:PsiDirectoryNode" />
-              <item name="python_batch_2" type="462c0819:PsiDirectoryNode" />
-              <item name="class3" type="462c0819:PsiDirectoryNode" />
+              <item name="class4" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -243,11 +229,12 @@
   </component>
   <component name="PropertiesComponent">
     <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1543743137815" />
+    <property name="full.screen.before.presentation.mode" value="false" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="project.structure.last.edited" value="SDKs" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.2" />
-    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
+    <property name="settings.editor.selected.configurable" value="fileTemplates" />
   </component>
   <component name="PyConsoleOptionsProvider">
     <option name="myPythonConsoleState">
@@ -269,8 +256,8 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.prime_numbers_range">
-    <configuration name="count_vovels" type="PythonConfigurationType" factoryName="Python" temporary="true">
+  <component name="RunManager" selected="Python.program4">
+    <configuration name="account_class" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="python_tutorial" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -278,11 +265,32 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/python_batch_2/class3" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/class" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/python_batch_2/class3/count_vovels.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/class/account_class.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="check_location" type="PythonConfigurationType" factoryName="Python">
+      <module name="python_tutorial" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/python_batch_2/class4" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/python_batch_2/class4/check_location.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -333,7 +341,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="print_numbers_continue" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="program4" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="python_tutorial" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -341,11 +349,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/python_batch_2/class3" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/python_batch_2/class4" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/python_batch_2/class3/print_numbers_continue.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/python_batch_2/class4/program4.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -354,7 +362,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="print_string_n_times_while_loop" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="shopping_list_example" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="python_tutorial" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -362,11 +370,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/python_batch_2/class3" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/python_batch_2/class4" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/python_batch_2/class3/print_string_n_times_while_loop.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/python_batch_2/class4/shopping_list_example.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -376,19 +384,20 @@
       <method v="2" />
     </configuration>
     <list>
-      <item itemvalue="Python.count_vovels" />
-      <item itemvalue="Python.print_string_n_times_while_loop" />
-      <item itemvalue="Python.print_numbers_continue" />
+      <item itemvalue="Python.check_location" />
+      <item itemvalue="Python.account_class" />
       <item itemvalue="Python.prime_numbers" />
       <item itemvalue="Python.prime_numbers_range" />
+      <item itemvalue="Python.shopping_list_example" />
+      <item itemvalue="Python.program4" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.program4" />
+        <item itemvalue="Python.shopping_list_example" />
+        <item itemvalue="Python.account_class" />
         <item itemvalue="Python.prime_numbers_range" />
         <item itemvalue="Python.prime_numbers" />
-        <item itemvalue="Python.print_numbers_continue" />
-        <item itemvalue="Python.print_string_n_times_while_loop" />
-        <item itemvalue="Python.count_vovels" />
       </list>
     </recent_temporary>
   </component>
@@ -406,27 +415,26 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="67" y="25" width="1213" height="695" extended-state="6" />
-    <editor active="true" />
+    <frame x="67" y="25" width="1853" height="1055" extended-state="6" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.15630253" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.101639345" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
       <window_info id="UI Designer" order="4" />
       <window_info id="Capture Tool" order="5" />
       <window_info id="Favorites" order="6" side_tool="true" />
-      <window_info anchor="bottom" id="Python Console" />
-      <window_info anchor="bottom" id="Message" order="0" />
-      <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.50530034" />
-      <window_info anchor="bottom" id="Debug" order="3" weight="0.4208809" />
-      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
-      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
-      <window_info anchor="bottom" id="TODO" order="6" />
-      <window_info anchor="bottom" id="Terminal" order="7" />
-      <window_info anchor="bottom" id="Event Log" order="8" side_tool="true" />
-      <window_info anchor="bottom" id="Version Control" order="9" />
+      <window_info anchor="bottom" id="Python Console" order="0" />
+      <window_info anchor="bottom" id="Message" order="1" />
+      <window_info anchor="bottom" id="Find" order="2" />
+      <window_info anchor="bottom" id="Run" order="3" weight="0.32073435" />
+      <window_info anchor="bottom" id="Debug" order="4" weight="0.4208809" />
+      <window_info anchor="bottom" id="Cvs" order="5" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="6" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="7" />
+      <window_info anchor="bottom" id="Terminal" order="8" />
+      <window_info anchor="bottom" id="Event Log" order="9" side_tool="true" />
+      <window_info anchor="bottom" id="Version Control" order="10" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
@@ -437,7 +445,7 @@
       <window_info anchor="right" id="Maven Projects" order="7" />
     </layout>
     <layout-to-restore>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.15630253" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.101639345" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -447,7 +455,7 @@
       <window_info anchor="bottom" id="Python Console" order="0" />
       <window_info anchor="bottom" id="Message" order="1" />
       <window_info anchor="bottom" id="Find" order="2" />
-      <window_info anchor="bottom" id="Run" order="3" visible="true" weight="0.6713781" />
+      <window_info anchor="bottom" id="Run" order="3" visible="true" weight="0.32073435" />
       <window_info anchor="bottom" id="Debug" order="4" weight="0.4208809" />
       <window_info anchor="bottom" id="Cvs" order="5" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="6" weight="0.4" />
@@ -466,85 +474,6 @@
     </layout-to-restore>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/python_batch_2/class7/insert/insert_multiple_rows.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="222">
-          <caret line="32" column="42" selection-start-line="32" selection-start-column="42" selection-end-line="32" selection-end-column="42" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/python_batch_2/class7/insert/insert_and_getid_of_inserted_row.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="222">
-          <caret line="17" column="52" selection-start-line="17" selection-start-column="52" selection-end-line="17" selection-end-column="52" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/python_batch_2/class7/select/select_all_records.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="222">
-          <caret line="16" column="12" selection-start-line="16" selection-start-column="12" selection-end-line="16" selection-end-column="12" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/python_batch_2/class7/select/selecting_columns.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="222">
-          <caret line="16" column="13" selection-start-line="16" selection-start-column="13" selection-end-line="16" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/python_batch_2/class7/select/select_with_filters.py" />
-    <entry file="file://$PROJECT_DIR$/python_batch_2/class7/select/using_fetchone_method.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret column="62" selection-start-column="62" selection-end-column="62" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/python_batch_2/class7/where/select_with_filters.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="222">
-          <caret line="18" column="12" selection-start-line="18" selection-start-column="12" selection-end-line="18" selection-end-column="12" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/python_batch_2/class7/where/select_with_wildcards.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="162">
-          <caret line="18" column="12" selection-start-line="18" selection-start-column="12" selection-end-line="18" selection-end-column="12" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/python_batch_2/class7/where/prevent_sql_injection.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="222">
-          <caret line="19" column="12" selection-start-line="19" selection-start-column="12" selection-end-line="19" selection-end-column="12" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/python_batch_2/class7/orderby/order_results.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="222">
-          <caret line="18" column="12" selection-start-line="18" selection-start-column="12" selection-end-line="18" selection-end-column="12" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/python_batch_2/class7/orderby/order_by_desc.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="252">
-          <caret line="18" column="12" lean-forward="true" selection-start-line="18" selection-start-column="12" selection-end-line="18" selection-end-column="12" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/python_batch_2/class7/delete/delete_record.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="255">
-          <caret line="17" column="45" selection-start-line="17" selection-start-column="45" selection-end-line="17" selection-end-column="45" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/python_batch_2/class7/where/where_sql_injection_check.py" />
     <entry file="file://$PROJECT_DIR$/python_batch_2/class7/delete/prevent_sql_injection.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="270">
@@ -724,41 +653,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/python_batch_2/class3/print_string_n_times.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret selection-end-line="1" selection-end-column="34" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/python_batch_2/class3/print_string_n_times_while_loop.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="30">
-          <caret line="2" column="19" lean-forward="true" selection-start-line="2" selection-start-column="19" selection-end-line="2" selection-end-column="19" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/python_batch_2/class3/print_numbers_continue.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="60">
-          <caret line="4" column="12" selection-start-line="4" selection-start-column="12" selection-end-line="4" selection-end-column="12" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/python_batch_2/class3/print_numbers_break.py">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
     <entry file="file://$PROJECT_DIR$/python_batch_2/class3/prime_numbers.txt">
       <provider selected="true" editor-type-id="text-editor">
         <state>
           <caret column="34" lean-forward="true" selection-start-column="34" selection-end-column="34" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/python_batch_2/class3/prime_numbers_range.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="75">
-          <caret line="20" lean-forward="true" selection-start-line="20" selection-end-line="20" />
         </state>
       </provider>
     </entry>
@@ -776,10 +674,110 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/class/account_class.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="105">
+          <caret line="42" lean-forward="true" selection-start-line="42" selection-end-line="42" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/class/sample_1_kettle_class.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="480">
+          <caret line="47" lean-forward="true" selection-start-line="47" selection-end-line="47" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/class/1_ObjectOrientatedProgrammingAndClasses/oop.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/python_batch_2/class3/prime_numbers_range.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="300">
+          <caret line="20" lean-forward="true" selection-start-line="20" selection-end-line="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/class/2_InstancesConstructorsSelfAndMore/oop.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-180" />
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/python_batch_2/class3/prime_numbers.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="135">
+        <state relative-caret-position="165">
           <caret line="11" column="35" selection-start-line="11" selection-start-column="35" selection-end-line="11" selection-end-column="35" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/python_batch_2/class4/program3.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/python_batch_2/class4/location.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="210">
+          <caret line="14" column="10" selection-start-line="14" selection-start-column="10" selection-end-line="14" selection-end-column="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/python_batch_2/class4/program5.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/python_batch_2/class4/check_location.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret selection-end-line="2" selection-end-column="34" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/python_batch_2/class4/program4.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/python_batch_2/class4/program2.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/python_batch_2/class4/program1.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/python_batch_2/class4/shopping_list_example.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="120">
+          <caret line="8" selection-start-line="8" selection-end-line="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/python_batch_2/class3/print_numbers_break.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="18" selection-start-column="18" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/python_batch_2/class3/print_numbers_continue.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="60">
+          <caret line="4" column="12" selection-start-line="4" selection-start-column="12" selection-end-line="4" selection-end-column="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/python_batch_2/class3/print_string_n_times_while_loop.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="30">
+          <caret line="2" column="19" selection-start-line="2" selection-start-column="19" selection-end-line="2" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/python_batch_2/class3/print_string_n_times.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret selection-end-line="1" selection-end-column="34" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/python_batch_2/class4/file_reading.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="90">
+          <caret line="6" column="34" lean-forward="true" selection-start-line="6" selection-start-column="34" selection-end-line="6" selection-end-column="34" />
         </state>
       </provider>
     </entry>

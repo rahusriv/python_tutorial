@@ -44,7 +44,8 @@ class Customer:
 if __name__=='__main__':
     mukund_account = Account("Mukund", "10001",10000)
     rahul_account = Account("Rahul","10002",10000)
-
+    mukund_account.branch = "XYZ"
+    mukund_account.abc = "XYZ"
     print("Balance for {} is {} ".format(mukund_account.name, mukund_account.balance))
     print("Balance for {} is {} ".format(rahul_account.name, rahul_account.balance))
     mukund_account.debit_money(500)
