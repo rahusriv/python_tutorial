@@ -1,7 +1,7 @@
 #set has no duplicates
 #It is unordered
 
-farm_animals = {"sheep", "cow", "hen","goat"}
+farm_animals = ["sheep", "cow", "hen","goat"]
 
 farm_animals_set = set(farm_animals)
 
