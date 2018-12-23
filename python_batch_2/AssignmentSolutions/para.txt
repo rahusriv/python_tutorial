@@ -1,0 +1,5 @@
+this is a sample file
+it has many lines in it
+i want to find frequency of words
+ther can be may words in this file
+each word is important

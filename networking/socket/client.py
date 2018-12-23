@@ -3,7 +3,7 @@
 import socket               # Import socket module
 
 s = socket.socket()         # Create a socket object
-host = '192.168.1.11' # Get local machine name
+host = '127.0.0.1' # Get local machine name
 print(host)
 port = 55555            # Reserve a port for your service.
 

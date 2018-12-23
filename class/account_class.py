@@ -1,4 +1,4 @@
-class Account(object):
+class Account:
     #account_number
     #name
     bank = "ICICI"
@@ -19,7 +19,7 @@ class Account(object):
             print("You do not have enough balance")
         else:
             self.balance = self.balance - amount
-            print("Amout debited")
+            print("Amout debited = {}".format(amount))
 
 class Customer:
     """This class will habe three variables
@@ -38,13 +38,17 @@ class Customer:
     def check_balance(self):
         return self.account.balance
 
+    def debit_balance(self,amount):
+        self.account.debit_money(amount)
+
 
 
 
 if __name__=='__main__':
     mukund_account = Account("Mukund", "10001",10000)
     rahul_account = Account("Rahul","10002",10000)
-
+    #mukund_account.branch = "XYZ"
+    #mukund_account.abc = "XYZ"
     print("Balance for {} is {} ".format(mukund_account.name, mukund_account.balance))
     print("Balance for {} is {} ".format(rahul_account.name, rahul_account.balance))
     mukund_account.debit_money(500)
@@ -59,9 +63,11 @@ if __name__=='__main__':
     print(rahul_account.__dict__)
     print(Account.__dict__)
 
-    customer1 = Customer("mukund","1001",mukund_account)
-    customer1.deposit(50000)
-    print(customer1.check_balance())
+    mukund = Customer("mukund","1001",mukund_account)
+    mukund.deposit(50000)
+    print(mukund.check_balance())
+    print(mukund.debit_balance(1000))
+    print(mukund.check_balance())
 
 
 

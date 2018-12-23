@@ -56,3 +56,7 @@ print(hamilton.power_source)
 print(Kettle.__dict__)
 print(kenwood.__dict__)
 print(hamilton.__dict__)
+Kettle.power_source = "coal"
+print(Kettle.__dict__)
+print(kenwood.__dict__)
+print(hamilton.__dict__)

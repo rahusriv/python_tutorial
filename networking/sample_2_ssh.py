@@ -13,10 +13,10 @@ iosv_l2 = {
 
 net_connect = ConnectHandler(**iosv_l2)
 output = net_connect.send_command('ls')
-if("folder2" in output):
-    print("Command successful")
-else:
-    print("command did not succed")
+#if("folder2" in output):
+#    print("Command successful")
+#else:
+#    print("command did not succed")
 print(output)
 
 print(type(output))
