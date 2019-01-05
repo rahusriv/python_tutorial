@@ -8,5 +8,8 @@ class Customer:
         self.pwd = pwd
         self.data = data
 
+    def insertCustomer(self,name,address,phone_no,pwd,data):
+
+
 
     
