@@ -1,11 +1,11 @@
 import mysql.connector
 
 mydb = mysql.connector.connect(
-    host="192.168.1.20",
+    host="localhost",
     user="root",
-    passwd="python12"
+    passwd="Python@12"
 )
 
 mycursor = mydb.cursor()
 
-mycursor.execute("CREATE DATABASE mydatabase")
+mycursor.execute("CREATE DATABASE mydbtest")
