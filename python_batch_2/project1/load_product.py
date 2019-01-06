@@ -4,8 +4,9 @@ def insertProduct(line):
     mylist = line.split(",")
     print(mylist)
     #product_id,product_name,category,price,quantity
-    product = Product(mylist[0].strip(),mylist[1].strip(),mylist[2].strip(),mylist[3].strip(),mylist[4].strip())
+    product = Product()
     #print(cust)
+    product.initialize(mylist[0].strip(),mylist[1].strip(),mylist[2].strip(),mylist[3].strip(),mylist[4].strip())
     product.insert()
 
 if __name__=='__main__':
