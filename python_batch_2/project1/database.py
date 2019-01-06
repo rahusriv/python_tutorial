@@ -1,15 +1,22 @@
 import mysql.connector
 
 class DataBase:
-    def __init__(self,host,user,passwd,database):
+    def __init__(self):
         self.mydb = mysql.connector.connect(
-            host=host,
-            user=user,
-            passwd=passwd,
-            database=database
+            host="localhost",
+            user="root",
+            passwd="Python@12",
+            database="ecomm"
         )
 
     def insertRowInTable(self,sql,values):
         mycursor = self.mydb.cursor()
-        mycursor.execut(sql,values)
+        mycursor.execute(sql,values)
         self.mydb.commit()
+
+    def selectRowFromTable(self,sql):
+        mycursor = self.mydb.cursor()
+        mycursor.execute(sql)
+        myresult = mycursor.fetchall()
+        return myresult
+

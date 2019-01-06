@@ -1,0 +1,10 @@
+4564321234, Samsung X4, Electronics, 30000.5,200
+5554321234, Samsung TV, Electronics, 50000.78,100
+4564321666, Allen Solly Shirt, Clothing, 3000,2000
+3484324564, Nike Shoes, Clothing, 4000.52,5000
+4364345555, Sofa Set, Furniture, 15000.5,50
+7632321456, Study Table, Furniture, 8000.5,70
+4563212349, Milk Powder, Grocery, 300.5,10000
+8884321999, Orange Juice, Grocery, 200.5,600
+4564444234, XBox, Electronics, 40000.5,800
+6764321333, Jogger Jeans, Clothing, 3000.2,900
