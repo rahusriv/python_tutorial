@@ -22,6 +22,6 @@ if __name__ == '__main__':
     print(c.temperature)
     c.temperature = 37
     print(c.to_fahrenheit())
-    #c._temperature = -300
+    #c.temperature = -300
     #print(c.get_temperature())
 

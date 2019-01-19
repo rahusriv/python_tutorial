@@ -7,7 +7,7 @@ class Celsius:
 
 if __name__ == '__main__':
     man = Celsius()
-    man.temperature = 37
+    man.temperature = -3457
     print(man.temperature)
     print(man.to_fahrenheit())
     print(man.__dict__)

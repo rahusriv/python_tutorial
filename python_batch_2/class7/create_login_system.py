@@ -1,4 +1,5 @@
 import mysql.connector
+import base64
 
 def getData(phone_no):
     mydb = mysql.connector.connect(
@@ -34,19 +35,25 @@ def createNewUser():
     name = input("Name : ")
     addr = input("Address: ")
     pwd = input("Password: ")
+    pwd_encoded = base64.b64encode(pwd.encode())
     data = input("Tell my about yourself : ")
     sql = "INSERT INTO customers (phone_no,name, address,pwd,data) VALUES (%s, %s,%s,%s,%s)"
-    val = (phone_no,name,addr,pwd,data)
+    val = (phone_no,name,addr,pwd_encoded,data)
     insert(sql,val)
 
 def loginAndShowData():
     phone_no = input("Phone No: ")
     pwd = input("Password : ")
     value1 = getData(phone_no)
+    if not value1:
+        print("User name or password dosent exist . Try again. ")
+        return
+
     value = value1[0]
     print(value)
     stored_pwd = value[3]
-    if(stored_pwd == pwd):
+    stored_pwd_encoded = base64.b64encode(pwd.encode())
+    if(stored_pwd == stored_pwd_encoded):
         print("Login success")
         print(value[4])
 
