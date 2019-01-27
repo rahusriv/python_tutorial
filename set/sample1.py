@@ -1,13 +1,13 @@
 #set has no duplicates
 #It is unordered
 
-farm_animals = ["sheep", "cow", "hen","goat"]
+farm_animals = ["sheep", "cow", "hen","goat", "goat"]
 
 farm_animals_set = set(farm_animals)
 
 farm_animals_set.add("buffalo")
 
-other_animals = {"buffalo","dog","hen","tiger","giraffe", "goat"}
+other_animals = ["buffalo","dog","hen","tiger","giraffe", "goat"]
 
 other_animals_set = set(other_animals)
 
@@ -24,3 +24,5 @@ empty_set = set()
 empty_set.add("new element")
 empty_list = []
 empty_dictionary = {}
+empty_tuple = ()
+print(farm_animals_set.difference(other_animals_set))

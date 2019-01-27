@@ -10,8 +10,11 @@ def divide(x, y):
     else:
         print("result is", result)
     finally:
+        raise Exception
         print("executing finally clause")
 
 divide(2, 1)
+print("*"*50)
 divide(2, 0)
+print("*"*50)
 divide("2", "1")

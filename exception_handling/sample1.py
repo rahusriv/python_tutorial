@@ -1,6 +1,6 @@
 while True:
     try:
-        raise ImportError
+        raise Exception
         x = int(input("Please enter a number: "))
         break
     #except ValueError as err:
