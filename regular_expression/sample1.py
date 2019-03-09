@@ -16,6 +16,7 @@ print(m.span())
 print("*"*50)
 
 p = re.compile(r"[a-z]+",re.IGNORECASE)
+#p = re.compile(r"([a-z]+)|([1-9]+)",re.IGNORECASE)
 
 m = p.match("")
 print(m)
@@ -23,6 +24,7 @@ print(m)
 print("*"*50)
 
 m = p.match("tempo324") #always checks if a pattern matches at the start of the string
+#m = p.match("1234asd")
 print(m)
 
 print(m.group())

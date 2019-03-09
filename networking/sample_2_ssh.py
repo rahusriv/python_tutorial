@@ -4,7 +4,7 @@ iosv_l2 = {
     #'device_type':'cisco_ios',
     #'device_type'='generic_termserver_telnet'
     'device_type':'linux',
-    'ip':'127.0.0.1',
+    'ip':'192.168.1.42',
     'username':'rahul',
     'password':'mastlappyubuntu12',
     #'port':2000

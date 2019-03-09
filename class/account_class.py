@@ -5,10 +5,10 @@ class Account:
     branch = "MG Road Branch"
     ifsi_code ="ICICI0001"
 
-    def __init__(self,name,account_number,balance):
-        self.name = name
-        self.account_number = account_number
-        self.balance = balance
+    def __init__(self,name1,account_number1,balance1):
+        self.name = name1
+        self.account_number = account_number1
+        self.balance = balance1
 
     def credit_money(self,amount):
         self.balance = self.balance + amount

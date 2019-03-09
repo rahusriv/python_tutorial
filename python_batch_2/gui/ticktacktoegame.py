@@ -72,7 +72,25 @@ def checkFinalWinnerAndEnd():
     winner = checkFinalWinner()
     if winner == 0:
         messagebox.showinfo("Hello", "O has won the game . Congrats")
-    elif winner == 1:
+    elif winner == 1:nitGrid()
+btn1_text = tkinter.StringVar()
+B1 = Button(top, textvariable=btn1_text, command = action1, height=13, width=26)
+btn1_text.set("")
+B1.grid(row=0,column=0)
+
+btn2_text = tkinter.StringVar()
+B2 = Button(top, textvariable=btn2_text, command = action2, height=13, width=26)
+btn2_text.set("")
+B2.grid(row=0,column=1)
+
+btn3_text = tkinter.StringVar()
+B3 = Button(top, textvariable=btn3_text, command = action3, height=13, width=26)
+btn3_text.set("")
+B3.grid(row=0,column=2)
+
+btn4_text = tkinter.StringVar()
+B4 = Button(top, textvariable=btn4_text, command = action4, height=13, width=26)
+btn4_text.set("")
         messagebox.showinfo("Hello", "X has won the game . Congrats")
 
 
