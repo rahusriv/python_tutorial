@@ -48,7 +48,7 @@ while(True):
         break
     else:
         purchased_dishes.append(id)
-
+mylist
 service_charge = int(input("Enter the service charge percentage: "))
 
 total_bill = 0.0
