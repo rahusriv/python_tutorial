@@ -72,7 +72,8 @@ def checkFinalWinnerAndEnd():
     winner = checkFinalWinner()
     if winner == 0:
         messagebox.showinfo("Hello", "O has won the game . Congrats")
-    elif winner == 1:nitGrid()
+    elif winner == 1:
+        initGrid()
 btn1_text = tkinter.StringVar()
 B1 = Button(top, textvariable=btn1_text, command = action1, height=13, width=26)
 btn1_text.set("")
