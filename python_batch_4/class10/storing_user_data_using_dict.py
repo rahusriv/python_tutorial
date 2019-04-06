@@ -43,8 +43,3 @@ if phone in customers:
         print("You have never shopped with us. Her are some exciting dicounts for you.")
 else:
     print("Sorry could not find your details. Please create an account with us")
-
-
-
-
-
