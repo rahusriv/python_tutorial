@@ -3,14 +3,14 @@ def divide(x, y):
         result = x / y
     except ZeroDivisionError:
         print("division by zero!")
-    #except ValueError:
-    #    print("Wrong type of value given")
+    except ValueError:
+        print("Wrong type of value given")
     except BaseException:
         print("Unown exception")
     else:
         print("result is", result)
     finally:
-        raise Exception
+        #raise Exception
         print("executing finally clause")
 
 divide(2, 1)

@@ -2,3 +2,5 @@ pic.jpg
 data.txt
 upload.png
 file.txt
+abc.png
+figure.data.txt
