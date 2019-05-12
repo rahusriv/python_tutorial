@@ -56,7 +56,7 @@ if __name__=='__main__':
     print("Balance for {} is {} ".format(mukund_account_obj.name, mukund_account_obj.balance))
     rahul_account_obj.debit_money(200)
     print("Balance for {} is {} ".format(rahul_account_obj.name, rahul_account_obj.balance))
-    rahul_account.debit_money(10000)
+    rahul_account_obj.debit_money(10000)
 
     #mukund_account.bank = "HDFC"
 

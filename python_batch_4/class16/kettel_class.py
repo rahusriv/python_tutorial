@@ -20,6 +20,8 @@ class Kettel:
         print("Price : {}".format(self.price))
         print("Discount : {}".format(self.discount))
         print("Is it on ? : {}".format(self.on))
+        self.dealer = "New Dealer 1"
+        print("Dealer name is : {}".format(self.dealer))
         print("*"*100)
 
 if __name__=='__main__':

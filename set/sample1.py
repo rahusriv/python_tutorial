@@ -5,6 +5,11 @@ farm_animals = ["sheep", "cow", "hen","goat", "goat"]
 
 farm_animals_set = set(farm_animals)
 
+print(farm_animals_set)
+
+for animal in farm_animals_set:
+    print(animal)
+
 farm_animals_set.add("buffalo")
 
 other_animals = ["buffalo","dog","hen","tiger","giraffe", "goat"]
@@ -26,3 +31,4 @@ empty_list = []
 empty_dictionary = {}
 empty_tuple = ()
 print(farm_animals_set.difference(other_animals_set))
+
